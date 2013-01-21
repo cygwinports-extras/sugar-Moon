@@ -1,0 +1,5 @@
+NAME="sugar-Moon"
+VERSION=16
+RELEASE=1
+SUGAR_TYPE="Honey"
+inherit sugar
